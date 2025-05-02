@@ -1,4 +1,4 @@
-# Real-Time Forum
+# VConect Forum
 
 A full-stack web application implementing a real-time forum with live chat capabilities. Built with Go (backend) and Vanilla JavaScript (frontend) using WebSockets for real-time communication.
 
